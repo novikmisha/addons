@@ -1,0 +1,16 @@
+------------------------------------------------------------------------
+r49 | romig2 | 2012-08-28 22:01:37 +0000 (Tue, 28 Aug 2012) | 1 line
+Changed paths:
+   A /tags/0.9.3 (from /trunk:48)
+
+Tagging as 0.9.3. Updated for MoP.
+------------------------------------------------------------------------
+r48 | romig2 | 2012-08-24 20:28:26 +0000 (Fri, 24 Aug 2012) | 1 line
+Changed paths:
+   M /trunk/MiniMainBar.toc
+   M /trunk/core.lua
+   M /trunk/micromenu.lua
+   M /trunk/stance.lua
+
+Update for MOP, will probably have some bugs.
+------------------------------------------------------------------------

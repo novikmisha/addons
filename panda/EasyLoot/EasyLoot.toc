@@ -1,0 +1,15 @@
+﻿## Interface: 50400
+## Title: EasyLoot
+## Author: Zaman
+## Version: 2.2.6.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: EasyLootSettings
+## SavedVariablesPerCharacter: EasyLootLootList
+## OptionalDeps: AtlasLoot, Auc-Auctioneer
+## X-Curse-Packaged-Version: v2.2.6.1
+## X-Curse-Project-Name: EasyLoot
+## X-Curse-Project-ID: easyloot
+## X-Curse-Repository-ID: wow/easyloot/mainline
+locale\localization.lua
+EasyLoot.xml

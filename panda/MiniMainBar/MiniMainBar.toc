@@ -1,0 +1,27 @@
+﻿## Interface: 50001
+## Author: Romig
+## Title: MiniMainBar
+## Notes: 
+## OptionalDeps: Ace3
+## SavedVariables: MiniMainBarDB
+## X-Curse-Packaged-Version: 0.9.2.1
+## X-Curse-Project-Name: MiniMainBar
+## X-Curse-Project-ID: minimainbar
+## X-Curse-Repository-ID: wow/minimainbar/mainline
+## X-Curse-Packaged-Version: 0.9.3
+## X-Curse-Project-Name: MiniMainBar
+## X-Curse-Project-ID: minimainbar
+## X-Curse-Repository-ID: wow/minimainbar/mainline
+
+
+embeds.xml
+core.lua
+options.lua
+micromenu.lua
+micromenu.xml
+bags.lua
+bags.xml
+pet.lua
+pet.xml
+stance.lua
+stance.xml
